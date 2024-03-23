@@ -28,6 +28,15 @@
   color: #61dafb;
 }
 
+.color-sample {
+  width: 12%;
+  height: 10%;
+  border: 1px solid black;
+  display: block;
+  border-radius: 4px;
+  font-size: 13px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +45,5 @@
     transform: rotate(360deg);
   }
 }
+
+

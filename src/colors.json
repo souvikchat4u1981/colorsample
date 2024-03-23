@@ -1,0 +1,79 @@
+[
+  {
+    "groupName": "Phantom",
+    "colors": [
+      { "name": "Dress", "color": "#dd69bf" },
+      { "name": "Skin", "color": "#f1b193" },
+      { "name": "Belt", "color": "#459da6" },
+      { "name": "Ring", "color": "#e0d300" },
+      { "name": "Hair", "color": "#f9f926" },
+      { "name": "Pistol", "color": "#9FB1D5" },
+      { "name": "Bullet", "color": "#d8c066" }
+    ]
+  },
+  {
+    "groupName": "Diana",
+    "colors": [
+      { "name": "Skin", "color": "#fbc8ae" },
+      { "name": "Hair", "color": "#0299f8" },
+      { "name": "Eye", "color": "#579088" },
+      { "name": "Dress1", "color": "#e63851" }
+    ]
+  },
+  {
+    "groupName": "Heloese",
+    "colors": [
+      { "name": "Skin", "color": "#fbc8ae" },
+      { "name": "Hair", "color": "#e8cb1d" },
+      { "name": "Hair Shade", "color": "#cd8a12" },
+      { "name": "Eye", "color": "#3d9acb" },
+      { "name": "Eyebrow", "color": "#896857" },
+      { "name": "Dress1", "color": "#900808" },
+      { "name": "Dress1", "color": "#f53d40" }
+    ]
+  },
+  {
+    "groupName": "Pets",
+    "colors": [
+      { "name": "Jumba", "color": "#928479" },
+      { "name": "Katina", "color": "#cda46c" },
+      { "name": "Bagha", "color": "#9c5c2d" },
+      { "name": "Bagha Tongue", "color": "#f9325c" },
+      { "name": "Tufan Jin", "color": "#ad632a" },
+      { "name": "Tufan Rekab", "color": "#be746e" }
+    ]
+  },
+  {
+    "groupName": "Tribes",
+    "colors": [
+      { "name": "Skin", "color": "#a06d5f" },
+      { "name": "Hair", "color": "#625754" },
+      { "name": "Dress1", "color": "#e53750" },
+      { "name": "Dress2", "color": "#e84d19" },
+      { "name": "Dress3", "color": "#345ac6" },
+      { "name": "Ornament", "color": "#c3d53e" }
+    ]
+  },
+  {
+    "groupName": "Nature",
+    "colors": [
+      { "name": "Green1", "color": "#5a9c81" },
+      { "name": "Green2", "color": "#6fafc0" },
+      { "name": "Green3", "color": "#a1ddd1" },
+      { "name": "Green4", "color": "#639f8a" },
+      { "name": "Green5", "color": "#2f5553" },
+      { "name": "Green6", "color": "#bdd234" },
+      { "name": "Green7", "color": "#a7b493" },
+      { "name": "Green8", "color": "#68aab8" },
+      { "name": "Tree1", "color": "#ddc381" },
+      { "name": "Tree Shade1", "color": "#9c9d83" }
+    ]
+  },
+  {
+    "groupName": "Animals",
+    "colors": [
+      { "name": "Jaguar", "color": "#cd7849" },
+      { "name": "Donkey", "color": "#9b8975" }
+    ]
+  }
+]
